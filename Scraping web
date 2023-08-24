@@ -121,7 +121,9 @@ for k in range(210):
     
     # patienter 2 secondes pour que la page se charge correctement
     sleep(2)    
-    
+
+
+df.to_csv('scrap veepee trustpilot 27fev_ 4074_avis.csv', index=False)
 
 
 
